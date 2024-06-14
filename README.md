@@ -1,4 +1,4 @@
-# *Maze (Dungeon Escape) topdown game made in Unity2D*
+# *Maze (Escape Dungeon) topdown game made in Unity2D*
 
 *feat*:</br>
 Thiago Fernandes</br>
