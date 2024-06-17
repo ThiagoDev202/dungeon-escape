@@ -1,9 +1,9 @@
 # *Maze (Escape Dungeon) topdown game made in Unity2D*
 
 *feat*:</br>
-Thiago Fernandes</br>
-Caio Lucena</br>
-Gustavo Nunes</br>
+@ThiagoDev202</br>
+@CaioLuColaco</br>
+@gustavonunes0</br>
 <br/>
 
 
